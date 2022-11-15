@@ -16,8 +16,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ostafinskim/01_frontendmentor)
-- Live Site URL: [Add live site URL here](https://ostafinskim.github.io/01_frontendmentor/)
+- Solution URL: [repo](https://github.com/ostafinskim/01_frontendmentor)
+- Live Site URL: [live](https://ostafinskim.github.io/01_frontendmentor/)
 
 ## Author
 
